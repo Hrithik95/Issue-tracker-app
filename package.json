@@ -4,7 +4,7 @@
   "description": "This app will help in tracking different issues of projects",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hrithik Singh",
